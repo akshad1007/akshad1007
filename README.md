@@ -4,7 +4,7 @@
 
 ---
 
-<!-- Banner — we'll generate dark.svg / light.svg later -->
+<!-- Animated banner placeholder — we'll generate dark.svg/light.svg soon -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshad1007/akshad1007/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshad1007/akshad1007/main/light.svg">
@@ -20,13 +20,13 @@
 
 <br/>
 
-<!-- Stats & Top Languages (self‑hosted — no rate limits) -->
+<!-- Self‑hosted stats (no rate limits) -->
 <img width="49%" src="https://github-readme-stats-pi-six-13.vercel.app/api?username=akshad1007&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats-pi-six-13.vercel.app/api/top-langs/?username=akshad1007&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
 
 ---
 
-<!-- Contribution Snake (auto‑updates every 12 hours) -->
+<!-- Contribution snake (auto‑updates every 12 hours) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshad1007/akshad1007/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshad1007/akshad1007/output/github-snake.svg">
@@ -35,7 +35,7 @@
 
 ---
 
-<!-- Social Badges -->
+<!-- Social badges -->
 <a href="https://linkedin.com/in/akshad-makhana">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
